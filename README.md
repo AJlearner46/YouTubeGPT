@@ -1,4 +1,4 @@
-# LLM-Langchain
+# LLM-Langchain-Integration
 
 --> "Demystifying LLM: Unraveling the Magic of Large Language Models"
 
